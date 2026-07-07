@@ -2,6 +2,8 @@
 
 A minimal Android application that provides a Quick Settings tile to toggle your AdGuard Home protection on and off.
 
+[![Download APK](https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android)](AdGuardToggle-Release.apk)
+
 ![App Screenshot](screenshots/screenshot.png)
 
 ## Features
