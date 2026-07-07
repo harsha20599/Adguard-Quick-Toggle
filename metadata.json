@@ -1,0 +1,6 @@
+{
+  "name": "AdGuard Toggle",
+  "description": "Control your self-hosted AdGuard Home instance directly from your Quick Settings tile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
